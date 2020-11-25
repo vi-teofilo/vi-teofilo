@@ -1,6 +1,8 @@
 ### Hi there 👋
 I´m Vitória Teófilo, 20 years old, graduated from UNIP - University of Brazil, Information Technology.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vi-teofilo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vi-teofilo/vi-teofilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
