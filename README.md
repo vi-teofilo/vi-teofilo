@@ -1,5 +1,5 @@
 ### Hi there 👋
-I´m Vitória Teófilo, 20 years old, graduated from UNIP - University of Brazil, Information Technology.
+I´m Vitória Teófilo, 21 years old, graduated from UNIP - University of Brazil, Information Technology.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vi-teofilo)](https://github.com/anuraghazra/github-readme-stats)
 
